@@ -2,9 +2,9 @@ Project Proposal
 
 Plant Disease Classification using Transfer Learning
 
-Due Date: June 12, 2026
+Due Date: 30th of June 2026
 
-Team Members: [Your Name] & [Partner's Name]
+Team Members: João Lopes (24842) & Lourenço Carvalho (29248)
 
 ### 1. Problem Statement
 
